@@ -1,0 +1,7 @@
+SAMPLE FORMAT — replace with actual deployment output.
+Deployment: accounts
+Pods: accounts-<actual-pod>
+ReplicaSet: accounts-<actual-rs>
+Service: accounts
+Port: 8080
+Status: Running

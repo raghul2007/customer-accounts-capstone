@@ -1,0 +1,6 @@
+SAMPLE FORMAT — replace with actual test output.
+Ran 6 tests in 0.XXXs
+OK
+Accounts service tests: PASS
+Security headers: PASS
+CORS policies: PASS

@@ -1,0 +1,6 @@
+SAMPLE FORMAT — replace with actual image details.
+Name: accounts
+Tag: latest
+Image ID: <ACTUAL-IMAGE-ID>
+Created Time: <ACTUAL-CREATED-TIME>
+Size: <ACTUAL-SIZE>

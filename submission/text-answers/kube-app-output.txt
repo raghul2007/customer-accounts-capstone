@@ -1,0 +1,2 @@
+SAMPLE FORMAT — replace with actual output.
+{"service":"Customer Accounts","version":"1.0","status":"OK"}

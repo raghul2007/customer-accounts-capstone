@@ -1,0 +1,11 @@
+SAMPLE FORMAT — replace with actual GitHub Actions raw log.
+Set up job
+Initialize containers
+Checkout
+Set up Python
+Install dependencies
+Lint with flake8
+Run unit tests with nosetests
+Post Checkout
+Complete job
+Job completed successfully.

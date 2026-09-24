@@ -1,0 +1,9 @@
+SAMPLE FORMAT — replace with complete actual Tekton logs.
+PipelineRun: accounts-cd-pipeline-run
+cleanup: Succeeded
+git-clone: Succeeded
+flake8: Succeeded
+nose: Succeeded
+buildah: Succeeded
+deploy: Succeeded
+PipelineRun completed successfully.
